@@ -15,4 +15,4 @@ Love music 🎵, jazz.
 ## Buy me a coffe ☕
 请我喝咖灰？
 
-![Img](./FILES/README.md/ef9863c9.jpg)
+<img src="./FILES/README.md/ef9863c9.jpg" width="300"/>
