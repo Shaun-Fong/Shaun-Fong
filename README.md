@@ -9,3 +9,5 @@ Love music 🎵, jazz.
 喜欢摸鱼听歌。
 
 <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="100%">
+
+<img src="/metrics.plugin.activity.svg" alt="Metrics" width="100%">
