@@ -2,13 +2,13 @@
 I make games 🎮.
 </p>
 <p align="center">
+And music 🎵.
+</p>
+<p align="center">
+Indie Game Developer.
+</p>
+<p align="center">
 就一臭做游戏的。
-</p>
-<p align="center">
-Love music 🎵, jazz.
-</p>
-<p align="center">
-喜欢摸鱼听歌。
 </p>
  
 <p align="center"><img src="/metrics.classic.svg" align="center" alt="Metrics" width="50%" /></p>
