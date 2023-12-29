@@ -47,8 +47,9 @@
 <br/>
 <h1 align="center">✨  Things that I made </h1>
 
+<p align="center">自己做的一些东西</p>
+
 <p align="center">
- 自己做的一些东西
-<img src="https://i0.hdslb.com/bfs/article/fa4174106bcf60bd218ead69692e3ff8a0d93569.jpg" alt="Type-50"/> 
-<img src="https://i0.hdslb.com/bfs/article/94b299abd53f2ea32d59d1db7eba25cd9fbc1781.png" alt="M1911"/> 
+<img src="https://i0.hdslb.com/bfs/article/fa4174106bcf60bd218ead69692e3ff8a0d93569.jpg" alt="Type-50" width="50%"/> 
+<img src="https://i0.hdslb.com/bfs/article/94b299abd53f2ea32d59d1db7eba25cd9fbc1781.png" alt="M1911" width="50%"/> 
 </p>
