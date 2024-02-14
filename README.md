@@ -3,8 +3,6 @@
 
 <p align="center">"They're a bunch of megalomaniac war-mongers, and they don't even understand what peace means. We've got to fight them, we've got to struggle with them to make them understand what peace means."</p>
 
-<p align="center">————Dr Khalid Muhammad</p>
-
 <br/>
 
 <p align="center">
