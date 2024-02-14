@@ -1,9 +1,17 @@
 <h1 align="center">👏  Hi !! </h1>
+
+
+<p align="center">"They're a bunch of megalomaniac war-mongers, and they don't even understand what peace means. We've got to fight them, we've got to struggle with them to make them understand what peace means."</p>
+
+<p align="center">————Dr Khalid Muhammad</p>
+
+<br/>
+
 <p align="center">
  <img src="/metrics.classic.svg" alt="Metrics" width="40%" />
 </p>
 
-<p align="center">您好，叼毛。我就一臭做游戏的。</p>
+<p align="center">您好，我就一臭做游戏的。</p>
 
 <p align="center">Hi there ! I'm shaun fong, I make games 🎮~</p>
  
