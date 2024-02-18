@@ -9,7 +9,7 @@
  <img src="/metrics.classic.svg" alt="Metrics" width="40%" />
 </p>
 
-<p align="center">您好，我就一臭做游戏的。</p>
+<p align="center">你好哇</p>
 
 <p align="center">Hi there ! I'm shaun fong, I make games 🎮~</p>
  
