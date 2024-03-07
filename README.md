@@ -60,6 +60,7 @@
 <p align="center"><a href="https://store.steampowered.com/app/1700050">RED MEMORY on Steam</a></p>
 
 <p align="center">
+<img src="https://github.com/Shaun-Fong/Shaun-Fong/assets/16713354/0d2d8d79-0a56-4b48-8e4f-bf595d974cdd" alt="Type-50" width="50%"/> 
 <img src="https://i0.hdslb.com/bfs/article/fa4174106bcf60bd218ead69692e3ff8a0d93569.jpg" alt="Type-50" width="50%"/> 
 <img src="https://i0.hdslb.com/bfs/article/94b299abd53f2ea32d59d1db7eba25cd9fbc1781.png" alt="M1911" width="50%"/> 
 </p>
