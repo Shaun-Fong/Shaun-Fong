@@ -3,6 +3,8 @@
 
 <p align="center">"They're a bunch of megalomaniac war-mongers, and they don't even understand what peace means. We've got to fight them, we've got to struggle with them to make them understand what peace means."</p>
 
+<p align="center">————Khalid Abdul Muhammad</p>
+
 <br/>
 
 <p align="center">
@@ -54,6 +56,8 @@
 <h1 align="center">✨  Things that I made </h1>
 
 <p align="center">自己做的一些东西</p>
+
+<p align="center"><a href="https://store.steampowered.com/app/1700050">RED MEMORY on Steam</a></p>
 
 <p align="center">
 <img src="https://i0.hdslb.com/bfs/article/fa4174106bcf60bd218ead69692e3ff8a0d93569.jpg" alt="Type-50" width="50%"/> 
