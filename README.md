@@ -1,28 +1,19 @@
 <h1 align="center">👏  Hi !! </h1>
 
-
-<p align="center">"They're a bunch of megalomaniac war-mongers, and they don't even understand what peace means. We've got to fight them, we've got to struggle with them to make them understand what peace means."</p>
-
-<p align="center">————Khalid Abdul Muhammad</p>
-
 <br/>
 
 <p align="center">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaun-Fong&theme=github_dark" alt="Metrics" width="70%" />
 </p>
 
-<p align="center">
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shaun-Fong&theme=github_dark" alt="Metrics" width="35%" />
-</p>
-
 <p align="center">你好哇</p>
 
-<p align="center">Hi there ! I'm shaun fong, I make games 🎮~</p>
+<p align="center">Hi there ! I'm shaun fong, I make games 🎮</p>
  
 <br/>
  
 <h1 align="center">🛠  Technologies and tools </h1>
-<p align="center">用的技术和工具软件什么的</p>
+<p align="center">技术工具</p>
 
 <p align="center">
 <a href="https://www.unity.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/unity.svg" alt="unity" width="32" height="32"/>
@@ -59,7 +50,7 @@
 <br/>
 <h1 align="center">✨  Things that I made </h1>
 
-<p align="center">自己做的一些东西</p>
+<p align="center">自己耍的一些东西</p>
 
 <p align="center"><a href="https://store.steampowered.com/app/1700050">RED MEMORY on Steam</a></p>
 
@@ -67,4 +58,8 @@
 <img src="https://github.com/Shaun-Fong/Shaun-Fong/assets/16713354/0d2d8d79-0a56-4b48-8e4f-bf595d974cdd" alt="Type-50" width="50%"/> 
 <img src="https://i0.hdslb.com/bfs/article/fa4174106bcf60bd218ead69692e3ff8a0d93569.jpg" alt="Type-50" width="50%"/> 
 <img src="https://i0.hdslb.com/bfs/article/94b299abd53f2ea32d59d1db7eba25cd9fbc1781.png" alt="M1911" width="50%"/> 
+</p>
+
+<p align="center">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=315kjwfi3nhnqcfmyswiitbv32qm" width="30%"/> 
 </p>
