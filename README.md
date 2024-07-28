@@ -8,7 +8,11 @@
 <br/>
 
 <p align="center">
- <img src="/metrics.classic.svg" alt="Metrics" width="40%" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaun-Fong&theme=github_dark" alt="Metrics" width="70%" />
+</p>
+
+<p align="center">
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shaun-Fong&theme=github_dark" alt="Metrics" width="35%" />
 </p>
 
 <p align="center">你好哇</p>
