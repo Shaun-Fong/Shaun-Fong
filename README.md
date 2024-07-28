@@ -52,7 +52,7 @@
 
 <p align="center">自己耍的一些东西</p>
 
-<p align="center"><a href="https://store.steampowered.com/app/1700050">RED MEMORY on Steam</a></p>
+<p align="center"><a href="https://store.steampowered.com/app/1700050">RED MEMORY on Steam (WIP)</a></p>
 
 <p align="center">
 <img src="https://github.com/Shaun-Fong/Shaun-Fong/assets/16713354/0d2d8d79-0a56-4b48-8e4f-bf595d974cdd" alt="Type-50" width="50%"/> 
