@@ -46,20 +46,3 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="32" height="32"/> </a> 
 </p>
-
-<br/>
-<h1 align="center">✨  Things that I made </h1>
-
-<p align="center">自己耍的一些东西</p>
-
-<p align="center"><a href="https://store.steampowered.com/app/1700050">RED MEMORY on Steam (WIP)</a></p>
-
-<p align="center">
-<img src="https://github.com/Shaun-Fong/Shaun-Fong/assets/16713354/0d2d8d79-0a56-4b48-8e4f-bf595d974cdd" alt="Type-50" width="50%"/> 
-<img src="https://i0.hdslb.com/bfs/article/fa4174106bcf60bd218ead69692e3ff8a0d93569.jpg" alt="Type-50" width="50%"/> 
-<img src="https://i0.hdslb.com/bfs/article/94b299abd53f2ea32d59d1db7eba25cd9fbc1781.png" alt="M1911" width="50%"/> 
-</p>
-
-<p align="center">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=315kjwfi3nhnqcfmyswiitbv32qm" width="30%"/> 
-</p>
