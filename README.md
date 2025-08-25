@@ -7,6 +7,7 @@
 
 <p align="center">Hi there ! I'm shaun fong, I make games 🎮</p>
 
+<!--
 <p align="center">
   <a href="https://space.bilibili.com/3493296173222665">
     <img src="https://img.shields.io/badge/Bilibili-blue?style=flat&logo=bilibili&logoColor=white&labelColor=00A1D6" alt="Bilibili" />
@@ -17,3 +18,4 @@
     <img src="https://img.shields.io/badge/Steam-gray?style=flat&logo=steam&logoColor=white&labelColor=black" alt="Steam" />
   </a>
 </p>
+-->
